@@ -18,3 +18,17 @@ a {
 a:hover, a:focus {
     color: var(--primary-text);
 }
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr))!important;
+    gap: 3rem;
+    padding: 20px;
+}
+
+@media (min-width: 641px) {
+  .container {
+    margin: 3rem auto;
+    max-width: 1040px;
+  }
+}

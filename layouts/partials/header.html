@@ -1,0 +1,26 @@
+<header>
+    <nav class="logo h-card">
+        <ul>
+            <li>
+                Reynier Théo
+            </li>
+        </ul>
+    </nav>
+    <nav class="menu">
+        <ul>
+            <li>
+                <a class="u-url" href="{{ .Site.Home.Permalink }}">
+                    Accueil
+                </a>
+            </li>
+            {{- range site.Menus.main }}
+                <li>
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+            {{- end }}
+            <li>
+                <a href="cv.pdf">CV</a>
+            </li>
+        </ul>
+    </nav>
+</header>

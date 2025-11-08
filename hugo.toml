@@ -1,6 +1,6 @@
 baseURL = 'https://rtheogh.github.io'
 languageCode = 'fr-fr'
-title = 'Portfolio'
+title = 'Reynier Théo'
 theme = "quint"
 summaryLength = 20                  # Number of characters in your card summaries
 
@@ -12,6 +12,10 @@ contact = "Me contacter : [email](mailto:reynier.theo@gmail.com)."
 [[menus.main]]
 name = 'Linkedin'
 url = 'https://www.linkedin.com/in/theo-reynier/'
+
+[[menus.main]]
+name = 'GitHub'
+url = 'https://github.com/RTheoGH'
 
 [markup.goldmark.renderer]
     unsafe = true
