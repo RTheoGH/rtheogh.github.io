@@ -1,16 +1,27 @@
-baseURL = 'https://quint-theme-demo.netlify.app/'
-languageCode = 'en-us'
-title = 'Quint'
+baseURL = 'https://rtheogh.github.io'
+languageCode = 'fr-fr'
+title = 'Portfolio'
 theme = "quint"
 summaryLength = 20                  # Number of characters in your card summaries
 
 [params]
 useToc = true
-description = 'Demo site for the Hugo theme Quint.'
+description = 'Portfolio de Reynier Théo'
+contact = "Me contacter : [email](mailto:reynier.theo@gmail.com)."
 
 [[menus.main]]
-name = 'GitHub'
-url = 'https://github.com/victoriadrake/hugo-theme-quint'
+name = 'Linkedin'
+url = 'https://www.linkedin.com/in/theo-reynier/'
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[[params.social]]
+    url = "mailto:reynier.theo@gmail.com"
+    icon = "/social/email.png"
+    name = "Email"
+
+[[params.social]]
+    url = "https://github.com/RTheoGH/"
+    icon = "/social/github.svg"
+    name = "GitHub"
