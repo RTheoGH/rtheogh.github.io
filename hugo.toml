@@ -7,7 +7,7 @@ summaryLength = 20                  # Number of characters in your card summarie
 [params]
 useToc = true
 description = 'Portfolio de Reynier Théo'
-contact = "Me contacter : [email](mailto:reynier.theo@gmail.com)."
+contact = "Contact me : [email](mailto:reynier.theo@gmail.com)."
 
 [[menus.main]]
 name = 'Linkedin'

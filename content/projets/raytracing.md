@@ -1,8 +1,9 @@
 ---
-title: Lancé de rayons
+title: Ray Tracer CPU
 date: '2025-01-04T18:13:27.758Z'
 draft: false
 image: '/projets/images/raytracing.png'
+summary: "Ray Tracer - C++"
 ---
 
 temp
