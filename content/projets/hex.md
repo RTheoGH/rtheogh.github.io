@@ -1,9 +1,9 @@
 ---
-title: Univ'Herbcité
-date: '2025-11-02T18:13:27.758Z'
+title: Hex
+date: '2022-12-16T18:13:27.758Z'
 draft: false
-image: '/projets/images/tn_univ.png'
-summary: "Serious Game - Godot"
+image: '/projets/images/hex.png'
+summary: "Board Game - Javascript"
 ---
 
 **Univ'Herbcité** is a serious game developed with **Godot Engine**.\
@@ -14,9 +14,7 @@ You play as a student who wakes up lost in the middle of the grounds. To find yo
 
 Through this experience, players are encouraged to discover the botanical richness of the university’s environment while reflecting on the link between **nature and learning**.
 
-![png1](/projets/images/univ/univ1.png "screen1")            |  ![png2](/projets/images/univ/univ2.png "screen2")
-:-------------------------:|:-------------------------:
-![png3](/projets/images/univ/univ3.png "screen3")  |  ![png4](/projets/images/univ/univ4.png "screen4")
+<!-- ![png1](images/univ/univ1.png "Image Title") -->
 
 Links to the project :
 - [ITCH](https://azouuuu.itch.io/univherbcite) : Game page

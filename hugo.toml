@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Reynier Théo'
 theme = "quint"
 summaryLength = 20                  # Number of characters in your card summaries
+pagination.pagerSize = 12
 
 [params]
 useToc = true
