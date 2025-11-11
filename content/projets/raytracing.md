@@ -38,5 +38,11 @@ Development of a full **Kd-Tree spatial acceleration structure**, drastically im
 Added **texture mapping** for both planar and spherical surfaces, allowing **UV-based color sampling** from `.ppm`images.\
 The final renderer can display **realistic Cornell Box** scenes with **textured walls**, **reflective spheres**, and **refractive glass objects** — all computed via pure ray tracing.
 
+<p align="center">
+  <img src="/projets/images/rt/final50x16.png" alt="screen1" width="32%"/>
+  <img src="/projets/images/rt/Dromas.png" alt="screen2" width="32%"/>
+  <img src="/projets/images/rt/Octofiesta.png" alt="screen3" width="32%"/>
+</p>
+
 Link to the project :
 - ![GitHub](https://github.com/RTheoGH/RayTracing_CPU)

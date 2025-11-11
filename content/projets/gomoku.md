@@ -19,5 +19,12 @@ The app allows players to:
 
 The project emphasizes a **clean**, **intuitive interface** thanks to Jetpack Compose, with features such as internationalization (English/French), customizable profile pictures, and smooth navigation between screens.
 
+<p align="center">
+  <img src="/projets/images/gomoku/partie_hors_ligne.png" alt="screen1" width="23%"/>
+  <img src="/projets/images/gomoku/historique.png" alt="screen2" width="23%"/>
+  <img src="/projets/images/gomoku/leaderboard.png" alt="screen3" width="23%"/>
+  <img src="/projets/images/gomoku/blitz.png" alt="screen4" width="23%"/>
+</p>
+
 Link to the project :
 - [GitHub](https://github.com/RTheoGH/Gomoku_mobile)

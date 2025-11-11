@@ -22,5 +22,9 @@ The engine supports:
 
 Developed entirely in **C++**, Pawformer demonstrates a deep understanding of the principles behind 3D engines, from rendering pipelines to physics simulation.
 
+![png1](/projets/images/pawformer/3cam.gif "screen1")  |  ![png2](/projets/images/pawformer/boing.gif "screen2")
+:-------------------------:|:-------------------------:
+![png3](/projets/images/pawformer/bonk.gif "screen3")  |  ![png4](/projets/images/pawformer/aaaaaa.gif "screen4")
+
 Link to the project :
 - [GitHub](https://github.com/RTheoGH/Pawformer)
