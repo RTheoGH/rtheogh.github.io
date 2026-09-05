@@ -6,6 +6,8 @@ draft: false
 
 <img src="images/moi2.jpg" alt="drawing" width="200"/>
 
-Student at the University of Montpellier, France.
+Looking for opportunities!
 \
-Specialized in image processing, 3D programming and video game development.
+Graduated student of the University of Montpellier, France.
+\
+Specialized in image processing, 2D/3D programming and video game development.
