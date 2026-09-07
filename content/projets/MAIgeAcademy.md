@@ -26,6 +26,9 @@ Several **student strategies** were implemented and compared:
 
 The simulation highlights how agent design and goal structures affect collective outcomes, making **MAIge Academy** both a research-oriented and playful exploration of **agent-based AI**.
 
+![png1](/projets/images/maige/maige1.png "screen1")  |  ![png2](/projets/images/maige/maige2.png "screen2") |  ![png2](/projets/images/maige/maige3.png "screen3")
+:-------------------------:|:-------------------------:|:-------------------------:
+
 Links to the project :
 - [ITCH](https://ohhnyx.itch.io/maige-academy) : Game page
 - [GitHub](https://github.com/binaryHips/MAIgeAcademy) : Source code

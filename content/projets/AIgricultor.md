@@ -32,6 +32,9 @@ Each agent is driven by an internal Brain class — a finite state machine contr
     `comeback(s) ∧ enter(s) ⇒ graze(s)`\
     → Alternates between grazing, fleeing, and returning based on dog behavior.
 
+![png1](/projets/images/aigri/aigri1.png "screen1")  |  ![png2](/projets/images/aigri/aigri2.png "screen2") |  ![png2](/projets/images/aigri/aigri3.png "screen3")
+:-------------------------:|:-------------------------:|:-------------------------:
+
 Links to the project :
 - [ITCH](https://ohhnyx.itch.io/aigricultor) : Game page
 - [GitHub](https://github.com/VigKillian/AIgricultor) : Source code

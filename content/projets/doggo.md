@@ -19,6 +19,9 @@ Each move is evaluated according to tactical criteria such as territory control,
 
 The game includes a **graphical interface** with menus for setup, gameplay, and AI mode selection. Players can challenge another human or face off against the algorithm in increasingly difficult matches.
 
+![png1](/projets/images/doggo/doggo1.png "screen1")  |  ![png2](/projets/images/doggo/doggo2.png "screen2") |  ![png2](/projets/images/doggo/doggo3.png "screen3")
+:-------------------------:|:-------------------------:|:-------------------------:
+
 Links to the projects :
 - [ITCH](https://ohhnyx.itch.io/doggo) : Game page
 - [GitHub](https://github.com/RTheoGH/doggo) : Source code

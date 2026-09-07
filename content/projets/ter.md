@@ -16,5 +16,7 @@ Using **compute shaders** in Godot 4, the team integrated several advanced rende
 - **Flow map–based wave orientation**, to simulate directional currents and wind influence.
 - **LEAN Mapping**, to produce more realistic specular highlights and reflections at different viewing distances.
 
+![png1](/projets/images/ocean.gif "screen1")
+
 Link to the project :
 - [GitHub](https://github.com/RTheoGH/TER-Ocean)
