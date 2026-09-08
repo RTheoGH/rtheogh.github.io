@@ -3,6 +3,7 @@ title: Despioneer
 date: '2026-06-21T20:10:27.758Z'
 draft: false
 image: '/projets/images/despioneer.png'
+tags: ["Godot", "GDScript", "Game", "2D"]
 summary: "2D Game - Godot"
 ---
 

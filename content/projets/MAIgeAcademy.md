@@ -3,6 +3,7 @@ title: MAIge Academy
 date: '2024-12-16T18:13:27.758Z'
 draft: false
 image: '/projets/images/transformgif.gif'
+tags: ["Godot", "GDScript", "Game", "2D", "AI"]
 summary: "Agent Game - Godot"
 ---
 

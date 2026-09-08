@@ -3,6 +3,7 @@ title: Hive
 date: '2024-05-11T18:13:27.758Z'
 draft: false
 image: '/projets/images/hive.png'
+tags: ["Game", "JavaScript", "jQuery"]
 summary: "Board Game - JavaScript/jQuery"
 ---
 

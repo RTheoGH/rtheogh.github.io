@@ -3,6 +3,7 @@ title: FindMask
 date: '2026-02-01T20:13:27.758Z'
 draft: false
 image: '/projets/images/findmask.png'
+tags: ["Godot", "GDScript", "Game", "2D"]
 summary: "2D Game - Godot"
 ---
 

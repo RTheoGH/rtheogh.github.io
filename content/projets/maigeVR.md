@@ -3,6 +3,7 @@ title: Magie VR
 date: '2026-01-18T10:13:27.758Z'
 draft: false
 image: '/projets/images/vr_img.png'
+tags: ["Godot", "GDScript", "Game", "3D", "VR"]
 summary: "VR Game - Godot"
 ---
 

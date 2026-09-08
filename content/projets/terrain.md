@@ -3,10 +3,9 @@ title: Terrain Editor
 date: '2025-12-12T14:13:27.758Z'
 draft: false
 image: '/projets/images/editeur.png'
+tags: ["Engine", "C++", "OpenGL", "Qt", "2D", "3D"]
 summary: "3D Project - C++/Qt/OpenGL"
 ---
-
-**REYNIER Théo - VIGUIER Killian**
 
 **Description**
 

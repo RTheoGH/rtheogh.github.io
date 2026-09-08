@@ -3,6 +3,7 @@ title: Ray Tracer CPU
 date: '2025-01-04T18:13:27.758Z'
 draft: false
 image: '/projets/images/raytracing.png'
+tags: ["Engine", "C++", "CPU", "RayTracing"]
 summary: "Ray Tracer - C++"
 ---
 

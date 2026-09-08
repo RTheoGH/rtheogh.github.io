@@ -3,6 +3,7 @@ title: Ocean Synthesis
 date: '2025-06-02T18:13:27.758Z'
 draft: false
 image: '/projets/images/ter.png'
+tags: ["Research", "Godot", "GDScript", "Simulation"]
 summary: "Research project - Godot"
 ---
 

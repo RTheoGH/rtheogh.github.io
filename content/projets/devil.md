@@ -3,6 +3,7 @@ title: Blocks World VR
 date: '2025-10-14T18:13:27.758Z'
 draft: false
 image: '/projets/images/devilgr.png'
+tags: ["Godot", "GDScript", "VR", "3D", "AI"]
 summary: "Advanced Agents - Godot"
 ---
 

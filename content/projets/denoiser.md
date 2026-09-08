@@ -3,6 +3,7 @@ title: Denoiser CNN
 date: '2025-12-10T18:13:27.758Z'
 draft: false
 image: '/projets/images/noise.png'
+tags: ["Research", "Python", "Pytorch", "Machine Learning", "Image Processing"]
 summary: "Denoiser CNN - Python/Pytorch"
 ---
 
