@@ -32,3 +32,29 @@ a:hover, a:focus {
     max-width: 1040px;
   }
 }
+
+main:has(> a.tag-cloud) {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tag-cloud {
+  display: inline-block;
+  padding: 6px 14px;
+  background-color: var(--link-color);
+  color: #34495e;
+  border: 1px solid #dbe4ea;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  white-space: nowrap;
+  align-self: flex-start;
+}
+
+.tag-cloud:visited {
+  color: #34495e;
+}

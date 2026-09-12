@@ -18,6 +18,10 @@ url = 'https://www.linkedin.com/in/theo-reynier/'
 name = 'GitHub'
 url = 'https://github.com/RTheoGH'
 
+[[menus.main]]
+name = "Tags"
+url = "/tags"
+
 [markup.goldmark.renderer]
     unsafe = true
 
